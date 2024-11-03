@@ -50,8 +50,8 @@ You can find the implementation details in the `src/` directory.
 To run the analysis, follow these steps:
 
 1. Clone the repository:
-   ```bash
-  git@github.com:Dipesh30/NLP_Amazon_customer_reviews.git
+   ```bash  git@github.com:Dipesh30/NLP_Amazon_customer_reviews.git
+   
 Navigate to the project directory:
 bash
 Copy code
